@@ -1,8 +1,8 @@
 import {Header} from './components/Header.jsx'
-import './global.css'
-import styles from './App.module.scss'
 import { Post } from './components/Post.jsx'
 import { Sidebar } from './components/Sidebar.jsx'
+import './global.css'
+import styles from './App.module.scss'
 
 export function App() {
   return (
